@@ -1,3 +1,6 @@
+#!!!FINE-TUNED GEMMA 2 2B CAN BE DOWNLOADED HERE: https://drive.google.com/drive/folders/1AoQbqucjrJWkpEXuA87viH8rWKXcrOwh?usp=drive_link
+
+
 # Medical Data Extraction with Fine-Tuned LLMs
 
 ## 📋 Overview
